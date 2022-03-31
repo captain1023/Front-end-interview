@@ -1,4 +1,4 @@
-# -
+# 我也不想卷阿
 大家好,我是个菜🐔,整理不好的地方希望多多包涵,然后有问题可以在issues下面提出,每天整理问题
 
 微信群二维码放在最后,欢迎新的小伙伴加入
@@ -20,6 +20,6 @@
 
 
 ### Reference List
-1. vue相关[https://www.1024nav.com/front-junior/js-coding#%E5%AE%9E%E7%8E%B0-instanceof](https://www.1024nav.com/front-junior/js-coding#%E5%AE%9E%E7%8E%B0-instanceof)
+1. [vue相关](https://juejin.cn/post/6844903918753808398)
 
-2. 掘金,八股文[https://juejin.cn/post/7016593221815910408]
+2. [掘金,八股文](https://juejin.cn/post/7016593221815910408)
