@@ -1,6 +1,7 @@
 
-- name: Blog Post Workflow
-  uses: gautamkrishnar/blog-post-workflow@1.7.1
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 # 我也不想卷阿
 大家好,我是个菜🐔,整理不好的地方希望多多包涵,然后有问题可以在issues下面提出,每天整理问题
